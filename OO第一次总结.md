@@ -28,6 +28,8 @@ grammar_cjkRuby: true
 
 
 #### &emsp;&emsp;&emsp;&emsp;(2)类图
+![UML 1]
+可以看出第一次作业的结构比较简单，类之间的关联关系也比较少。同时生成的UML类图也与我的设计相符，即<i>polyCompute</i>
 ### &emsp;&emsp;2.第二次作业（“傻瓜式”电梯）
 #### &emsp;&emsp;&emsp;&emsp;(1)代码度量及相应分析
 | 度量值     | 总计 | 均值  | 标准差 | 最大值 |     |
